@@ -16,7 +16,7 @@ const poetry = defineCollection({
     title: z.string(),
     description: z.string(),
     date: z.coerce.date(),
-    image: z.string().default("/static/poetry-placeholder.png"),
+    image: z.string().default("/static/poetry/bat.png"),
   }),
 });
 

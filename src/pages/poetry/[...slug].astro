@@ -22,13 +22,24 @@ const { Content } = await post.render();
   image={post.data.image}
 >
   <main>
-    <h1 class="mb-5 text-xl font-medium">
-      {post.data.title}
-    </h1>
-    <p class="mb-1 font-medium text-zinc-500">
-      {formatDate(post.data.date)}
-    </p>
-    <article>
+    <!-- container for the image and the heading -->
+    <div class="relative">
+      <img 
+        src={post.data.image} 
+        alt={post.data.title} 
+        class="w-full h-auto object-cover dark:invert"
+      />
+      <!-- uses flex to position text inside the image -->
+      <div class="absolute top-0 left-0 w-full h-full flex flex-col justify-top items-start p-5">
+        <h1 class="text-xl font-medium">
+          {post.data.title}
+        </h1>
+        <p class="mb-3 font-medium text-zinc-500">
+          {formatDate(post.data.date)}
+        </p>
+      </div>
+    </div>
+    <article class="bg-black text-white dark:bg-white dark:text-black p-4">
       <Content />
     </article>
   </main>
