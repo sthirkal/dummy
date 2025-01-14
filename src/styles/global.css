@@ -41,7 +41,7 @@
       @apply my-4 font-medium dark:text-white;
     }
     :not(pre) > code {
-      @apply whitespace-nowrap rounded border bg-zinc-200/50 px-1 py-0.5 font-mono text-sm font-medium text-black dark:border-zinc-700 dark:bg-zinc-800/50 dark:text-white;
+      @apply whitespace-nowrap rounded border bg-zinc-200/50 px-1 py-0.5 font-mono text-sm font-medium text-black dark:border-zinc-700 bg-black/50 dark:text-white;
     }
     pre:has(code) {
       @apply my-4 max-h-[600px] overflow-auto rounded-lg border p-4 font-mono text-sm font-medium dark:border-zinc-700;
@@ -64,7 +64,7 @@
         @apply border-b p-4 text-left font-medium dark:border-zinc-700;
       }
       td {
-        @apply border-b bg-zinc-50 p-4 dark:border-zinc-700 dark:bg-zinc-800;
+        @apply border-b bg-zinc-50 p-4 dark:border-zinc-700 dark:bg-black;
       }
     }
     ol {
@@ -74,7 +74,7 @@
       @apply my-1 list-inside list-disc space-y-1 [&_ol]:pl-5 [&_ul]:pl-5;
     }
     kbd {
-      @apply rounded border border-b-2 bg-zinc-100 px-1 py-0.5 font-mono text-xs font-medium text-black dark:border-zinc-700 dark:bg-zinc-800 dark:text-white;
+      @apply rounded border border-b-2 bg-zinc-100 px-1 py-0.5 font-mono text-xs font-medium text-black dark:border-zinc-700 bg-black dark:text-white;
     }
     mark {
       @apply dark:bg-yellow-500/50 dark:text-white;
