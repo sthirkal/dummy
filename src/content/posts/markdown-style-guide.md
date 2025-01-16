@@ -1,73 +1,33 @@
 ---
-title: "Markdown Style Guide"
-description: "Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro."
-date: "Nov 07 2024"
+title: "Patterns"
+description: " "
+date: "Mar 20 2024"
 ---
+An early memory, lost to the archives of my neurology; my mother gently sifting Kolamaavu at our front gate through the dawn. The sun had barely revealed itself, mother's hands were flushed and steady.
 
-# H1
+"What's that?"
 
-## H2
+"Kolamaavu, do you see the drawings at our front door every morning? They're made with this."
 
-### H3
+"Can I try?"
 
-#### H4
+In the end, it had been too cold for me to make anything remotely comprehensible, maybe too young as well. With the floor looking somewhat of a drug bust, she swept the mess and delicately demonstrated the elegance of a Kolam.
 
-##### H5
+"They're patterns, kutti. Patterns are everywhere, patterns make this world beautiful."
 
-###### H6
+The word clung onto my skin like the beachfront sand. Patterns. 
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+My so called friends always had stories, their houses blooming of ancient tales and dusty relics. I learnt a new word, lineage, my young ears could never hear enough of it. Grandparents that waged war for our country, Parents that were authors and shoe-makers, homes built on the graves of the rich, what did the term "home soil" mean? I'd listen for a year or two and flee for another fresh start. All I've carried across the seas are others' stories, plying them into my own, "I have a home, this is what it's like." As soon as I'd lied about my fictional cousins and grandparents, we fled, always a little faster than the speed at which my fibbing would catch up. Patterns.
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+The lies flourished with people I left in the past, but caught me by the collar through my doorstep. My father had sounded so livid; his veins glared green with disgust. No child of his could have been born a liar, a fraud, he'd worked so hard to place a roof over their head, food on their plates, morality is an implicit quality, and a liar could never harbor his blood. With every uncloaked lie came down a fresh burn on my arm. The ones that love you ought to teach you the most important lessons, retribution. The scars healed in perfect, geometric lines. Patterns.
 
-![blog placeholder](/static/blog-placeholder.png)
+My first love was an artist. She was timid and had a mole on her left cheek. I hadn't known her nails were sharp and would mar my heart; her skin was soft and her hands felt like heaven in mine. Her wrath felt like a confession of her weakest tendencies, I promised myself I'd love her forever. The oath was evanescent. Her confession of weakness hadn't been my presumption, but rather glass shattering in my bloodstream. 
 
-<video controls>
-  <source src="/static/dynamic-island-animation.mp4" type="video/mp4">
-</video>
+"I hate you, I hate you so much."
 
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.  
-> **Note** that you can use _Markdown syntax_ within a blockquote.
+"I'm sorry, I'm sorry, please, let me fix this"
 
-| Italics   | Bold     | Code   |
-| --------- | -------- | ------ |
-| _italics_ | **bold** | `code` |
+I don't break promises and I was raised with open wounds. I tasted her name in everyone's flesh. I loved parts of her forever in other people. Patterns.
 
-```html
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Example HTML5 Document</title>
-  </head>
-  <body>
-    <p>Test</p>
-  </body>
-</html>
-```
+Before I could comprehend it, life had grown sickening. At home, my mattress had rotten into my skin with every night of rest. Punishment was offered in servings of fresh wounds, I spent more on gauze than food. My lies had prospered, blossoming out of my skin like weeds through concrete. The sickness of inauthenticity and polychrome deceit hit me in waves of nausea and dizziness. The ailments grew unavoidable, weak and sickly, I spent more nights on my rooftop. The stars arranged themselves with allure each night. The city lights twinkled with jealousy. And tonight, tonight I've had one drink too many, the stars have blended with the sky in mesmerising colours and I can no longer see the city lights. My feet no longer feel the ledge, the wind sounds like the beachfront. Sand against my legs, patterns.
 
-1. First item
-2. Second item
-3. Third item
-
-Hello world!
-
-- List item
-- Another item
-  - List item
-  - Another item
-  - And another item
-- And another item
-  - List item
-  - Another item
-  - And another item
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>Delete</kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
