@@ -4,6 +4,8 @@
 title: "narrative"
 description: " "
 date: "Feb 23 2024"
+image: "/static/poetry/nerium.png"
+
 ---
 
 Some are cynically doomed by the narrative; an enchanting lotus uprooted albeit its waxy leaves; its deadly roots desperately wrapping around the feet of the harvester. Some drown; most live with algae coated lungs.
