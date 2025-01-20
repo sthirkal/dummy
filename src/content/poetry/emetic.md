@@ -1,7 +1,7 @@
 ---
-Title : "emetic"
-Description : ""
-Date : "Oct 26 2024"
+title: "emetic"
+description: " "
+date : "Oct 26 2024"
 ---
 
 
