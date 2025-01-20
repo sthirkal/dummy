@@ -2,6 +2,7 @@
 title: "emetic"
 description: " "
 date : "Oct 26 2024"
+image: "/static/poetry/eyes.png" 
 ---
 
 
