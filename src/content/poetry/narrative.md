@@ -1,10 +1,8 @@
-
-
 ---
 title: "narrative"
 description: " "
 date: "Feb 23 2024"
-image: "/static/poetry/nerium.png"
+image: "/static/poetry/lotus.png"
 
 ---
 
