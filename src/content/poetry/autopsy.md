@@ -2,6 +2,7 @@
 title: "autopsy"
 description: " "
 date: "Feb 6 2025"
+image: "/static/poetry/death.png" 
 ---
 
 The mortician knows me more intimately than I have ever known myself. 
