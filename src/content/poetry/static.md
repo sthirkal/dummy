@@ -1,5 +1,5 @@
 ---
-title: "Static"
+title: "static"
 description: "Anatomy puppeteered by an incomprehensible longing."
 date: "Jan 24 2025"
 ---
