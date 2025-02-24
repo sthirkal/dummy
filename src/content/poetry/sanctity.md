@@ -1,7 +1,8 @@
 ---
-title:"sanctity"
-description:""
-date:"Jul 05 2022"
+title: "sanctity"
+
+description: ""
+date: "Jul 05 2022"
 ---
 
 We carry the dead to its burial like God; death is sanctity.
