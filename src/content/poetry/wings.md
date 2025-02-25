@@ -1,6 +1,6 @@
 ---
 title: "wings" 
-description: "Square one; I lay my body to rest and death cradles my figure." 
+description: " " 
 date: "October 12 2024"
 ---
 
